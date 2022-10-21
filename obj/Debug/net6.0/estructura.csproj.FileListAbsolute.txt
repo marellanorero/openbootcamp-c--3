@@ -1,0 +1,15 @@
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\bin\Debug\net6.0\estructura.exe
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\bin\Debug\net6.0\estructura.deps.json
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\bin\Debug\net6.0\estructura.runtimeconfig.json
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\bin\Debug\net6.0\estructura.dll
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\bin\Debug\net6.0\estructura.pdb
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.csproj.AssemblyReference.cache
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.AssemblyInfoInputs.cache
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.AssemblyInfo.cs
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.csproj.CoreCompileInputs.cache
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.dll
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\refint\estructura.dll
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.pdb
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\estructura.genruntimeconfig.cache
+C:\Users\lolau\Documents\Laura\Laura\openBootcamp\estructura\obj\Debug\net6.0\ref\estructura.dll
